@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Filament\Pages\Tenancy;
+namespace App\Filament\Employers\Pages\Tenancy;
 
 use App\Models\Organization;
 use Filament\Forms\Components\TextInput;

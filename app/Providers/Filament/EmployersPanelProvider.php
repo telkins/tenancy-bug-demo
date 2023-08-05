@@ -2,7 +2,7 @@
 
 namespace App\Providers\Filament;
 
-use App\Filament\Pages\Tenancy\RegisterOrganization;
+use App\Filament\Employers\Pages\Tenancy\RegisterOrganization;
 use App\Models\Organization;
 use Filament\Http\Middleware\Authenticate;
 use Filament\Http\Middleware\DisableBladeIconComponents;
